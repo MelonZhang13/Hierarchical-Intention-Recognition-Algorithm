@@ -10,9 +10,14 @@ Low-level interaction intention recognition model (1D-CNN+Bi-LSTM):
 - Cudnn 11.8 + PyTorch 2.1.0
 - Other Python packages that may be involved: Matplotlib, Numpy, Pandas, scikit-learn, onnx, onnx-runtime
   
-High-level interaction intention recognition model (Dynamic Bayesian Network):
+High-level task intention recognition model (Dynamic Bayesian Network):
 - Anaconda Virtual Environment with Python 3.9
 - SMILE academic 2.2.5, which can be accessed at [SMILE Download](https://download.bayesfusion.com/files.html?category=Academia)
 - Other Python packages that may be involved: Matplotlib, Numpy, Pandas, scikit-learn, onnx, onnx-runtime
+
+## 3. Dataset
+The dataset comprised structured data collected from 10 participants over 50 trials, as described in Section 3.3, which included 52 attributes, such as HOTAS axis information, button information, human gaze coordinates, AOI fixation, helicopter altitude, heading, drone status information, etc., resulting in nearly 1.2 million rows of sample data. The dataset covers 16 types of interaction intention labels and 5 types of task intention labels. We randomly selected 4 trials from each participant as the training set and the remaining trial as the test set. Consequently, the training set includes approximately 950,000 rows of samples from 40 trials, whereas the test set includes approximately 230,000 rows of samples from 10 trials.
+- Dataset for low-level interaction intention recognition can be accessed at: _Low-Level Interaction Intention Recognition\Dataset\Final_Dataset_2.csv_
+- Dataset for high-level task intention recognition can be accessed at: _High-Level Task Intention Recognition\Dataset\DBN_Test_Data_2times.csv_
 
 
