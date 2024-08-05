@@ -23,5 +23,5 @@ The dataset comprised structured data collected from 10 participants over 50 tri
 The tasks of the data collection process are shown in the following video:
 https://drive.google.com/file/d/1t7iyEmOGsWwPB3_iopdPN-OPjZ9kg0JG/view?usp=sharing
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://drive.google.com/file/d/15m0nlETw7DChDeTUgcwCsFU1kUZ_uF2U/preview)
+https://drive.google.com/file/d/1t7iyEmOGsWwPB3_iopdPN-OPjZ9kg0JG/view?usp=sharing
 
