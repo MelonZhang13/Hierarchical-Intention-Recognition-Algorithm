@@ -21,3 +21,34 @@ The dataset comprised structured data collected from 10 participants over 50 tri
 - Dataset for high-level task intention recognition can be accessed at: _High-Level Task Intention Recognition\Dataset\DBN_Test_Data_2times.csv_
 The tasks of the data collection process are shown in the following video:
 <iframe src="https://drive.google.com/file/d/1t7iyEmOGsWwPB3_iopdPN-OPjZ9kg0JG/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<div class="video-container">
+  <iframe src="https://drive.google.com/file/d/15m0nlETw7DChDeTUgcwCsFU1kUZ_uF2U/preview" frameborder="0" allow="autoplay"></iframe>
+</div>
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  background: #fff;
+  text-align: left; /* Align video to the left */
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  border: none;
+}
+/* Media query for larger screens */
+@media (min-width: 768px) {
+  .video-container {
+    max-width: 960px; /* Optional: you can set a max-width for larger screens */
+    margin: 0; /* Align to the left */
+  }
+}
+</style>
