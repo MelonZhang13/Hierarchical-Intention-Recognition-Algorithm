@@ -19,5 +19,5 @@ High-level task intention recognition model (Dynamic Bayesian Network):
 The dataset comprised structured data collected from 10 participants over 50 trials, as described in Section 3.3, which included 52 attributes, such as HOTAS axis information, button information, human gaze coordinates, AOI fixation, helicopter altitude, heading, drone status information, etc., resulting in nearly 1.2 million rows of sample data. The dataset covers 16 types of interaction intention labels and 5 types of task intention labels. We randomly selected 4 trials from each participant as the training set and the remaining trial as the test set. Consequently, the training set includes approximately 950,000 rows of samples from 40 trials, whereas the test set includes approximately 230,000 rows of samples from 10 trials.
 - Dataset for low-level interaction intention recognition can be accessed at: _Low-Level Interaction Intention Recognition\Dataset\Final_Dataset_2.csv_
 - Dataset for high-level task intention recognition can be accessed at: _High-Level Task Intention Recognition\Dataset\DBN_Test_Data_2times.csv_
-
-
+The tasks of the data collection process are shown in the following video:
+<iframe src="https://drive.google.com/file/d/1t7iyEmOGsWwPB3_iopdPN-OPjZ9kg0JG/preview" width="640" height="480" allow="autoplay"></iframe>
