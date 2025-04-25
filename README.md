@@ -10,7 +10,7 @@ Intention recognition is the prerequisite and foundation for achieving intellige
 Low-level interaction intention recognition model (1D-CNN+Bi-LSTM):
 - Anaconda Virtual Environment with Python 3.9
 - Cudnn 11.8 + PyTorch 2.1.0
-- Other Python packages that may be involved: Matplotlib, Numpy, Pandas, scikit-learn, onnx, onnx-runtime
+- Other Python packages that may be involved: Matplotlib, Numpy, Pandas, Scikit-learn, Onnx, Onnx-runtime
   
 High-level task intention recognition model (Dynamic Bayesian Network):
 - Anaconda Virtual Environment with Python 3.9
